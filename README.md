@@ -1,1 +1,1 @@
-Pratice and learn cs fundamentals or new languages through simple projects
+Practice and learn cs fundamentals or new languages through simple projects
